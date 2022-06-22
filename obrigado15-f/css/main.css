@@ -1,0 +1,14 @@
+.cta { -webkit-appearance:none; cursor:pointer; font-family:arial, sans-serif; letter-spacing: normal; font-size:1.5em; text-align:center; background:#249634 !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important; border-radius:4px !important; color:#fff !important; padding:15px !important; font-weight: bold !important; width: 100% !important; border-bottom: 4px solid #247034;}
+
+.btn { -webkit-appearance:none; cursor:pointer; font-family:arial, sans-serif; letter-spacing: normal; font-size:1.5em; text-align:center;  -moz-border-radius:4px !important; -webkit-border-radius:4px !important; border-radius:4px !important; color:#fff; padding:15px !important; font-weight: bold !important; width: 100% !important;}
+
+
+
+#fundo {
+    background-image: url('../../inscricao15-fb2/img/bg-2.png');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(0, 0, 0);
+    background-attachment: scroll;
+}
