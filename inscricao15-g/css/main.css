@@ -1,4 +1,4 @@
-#field[1], #field[2], #field[3], #field[4] {display:none !important;}
+input[name="field[1]"] , input[name="field[2]"] , input[name="field[3]"] , input[name="field[4]"] {display:none !important;}
 #_form_13_ { font-size:14px; line-height:1.6; font-family:arial, helvetica, sans-serif; margin:0; }
 #_form_13_ * { outline:0; }
 ._form_hide { display:none; visibility:hidden; }
